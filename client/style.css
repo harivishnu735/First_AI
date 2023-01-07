@@ -8,13 +8,13 @@
 }
 
 body {
-  background: #343541;
+  background: #A78A94;
 }
 
 #app {
   width: 100vw;
   height: 100vh;
-  background: #343541;
+  background: #A78A94;
 
   display: flex;
   flex-direction: column;
@@ -81,8 +81,8 @@ body {
 }
 
 .profile img {
-  width: 60%;
-  height: 60%;
+  width: 90%;
+  height: 100%;
   object-fit: contain;
 }
 
