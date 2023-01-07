@@ -65,11 +65,11 @@ body {
 }
 
 .profile {
-  width: 60px;
-  height: 75px;
+  width: 10px;
+  height: 10px;
   border-radius: 5px;
 
-  background: #5436DA;
+  background: #302F2F;
 
   display: flex;
   justify-content: center;
