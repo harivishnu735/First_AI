@@ -16,7 +16,6 @@ body {
   height: 100vh;
   background-image: url('/assets/7ZQr.gif');
   background-size: cover;
-  background-position: center;
 
   display: flex;
   flex-direction: column;
