@@ -8,13 +8,15 @@
 }
 
 body {
-  background: #A78A94;
+  background: transparent;
+  background-color: transparent;
 }
-
 #app {
-  width: 100vw;
-  height: 100vh;
-  background: #A78A94;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/assets/AI-World-2048x1288.jpg');
+  background-size: cover;
+  background-position: center;
 
   display: flex;
   flex-direction: column;
