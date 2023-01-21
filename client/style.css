@@ -14,7 +14,7 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background-image: url('/assets/mystery-hacker.jpg');
+  background-image: url('/assets/tumblr.gif');
 
   display: flex;
   flex-direction: column;
